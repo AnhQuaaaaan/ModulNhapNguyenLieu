@@ -1,4 +1,7 @@
 Module cho phép quản lý nhập nguyên liệu từ nhà cung cấp, hiển thị danh sách hóa đơn
+Frontend: HTML, CSS, JAVASCRIPT
+Backend: JAVA ( Springboot )
+Thiết kế RestfulApi, sử dụng hibernate,JPA
 - Nghiệp vụ: người dùng thực hiện chọn nhà cung cấp, chọn nguyên liệu cần nhập, nhập đơn giá, số lượng sau đó xuất và lưu hóa đơn, người dùng cũng có thể xem lại các hóa đơn đã nhập
 - Hiển thị hóa đơn đã nhập
   ![image](https://github.com/user-attachments/assets/3fb6de82-b74b-43bc-bc3c-d439e5e36cbc)
